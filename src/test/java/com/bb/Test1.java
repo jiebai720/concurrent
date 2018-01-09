@@ -2,6 +2,7 @@ package com.bb;
 
 
 //静态变量线程安全问题模拟
+//http://blog.csdn.net/aaa1117a8w5s6d/article/details/8295527
 public class Test1 implements Runnable {
 
 
