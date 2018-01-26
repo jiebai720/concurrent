@@ -10,7 +10,7 @@
 
   <servlet>
     <servlet-name>hello</servlet-name>
-    <servlet-class>com.bb.ConcurrentTestServletBak</servlet-class>
+    <servlet-class>com.bb.ConcurrentTestServlet1</servlet-class>
   </servlet>
 
   <servlet-mapping>
